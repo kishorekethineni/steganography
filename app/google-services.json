@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521708147888",
+    "firebase_url": "https://steganographycapstoneapp.firebaseio.com",
+    "project_id": "steganographycapstoneapp",
+    "storage_bucket": "steganographycapstoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521708147888:android:4c2485429b086aac0fd775",
+        "android_client_info": {
+          "package_name": "c.chaitu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521708147888-dt7o822v0ild0mcmemrg1l22sn28vcs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.chaitu.myapplication",
+            "certificate_hash": "194d1f965fb891979eb8288fb356de0d5de76e9c"
+          }
+        },
+        {
+          "client_id": "521708147888-kogbilq3t09r9iram5bbh0jeffr71r04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33hJ086Lwvra5qtyf6_uLz2QNyXC5wBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521708147888-kogbilq3t09r9iram5bbh0jeffr71r04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
